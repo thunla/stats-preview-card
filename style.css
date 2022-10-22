@@ -29,7 +29,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: stretch;
-    width: 80%;
+    width: 850px;
     border-radius: 8px;
     overflow: hidden;
 }
@@ -99,6 +99,7 @@ body{
     .card{
         flex-direction: column-reverse;
         margin: 30px auto;
+        width: 90%;
     }
     .card--left{
         text-align: center;
